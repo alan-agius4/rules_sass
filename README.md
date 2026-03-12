@@ -1,3 +1,5 @@
 # rules_sass
 
-A new variant of the older [bazelbuild/rules_sass](https://github.com/bazelbuild/rules_sass) ruleset with identical API but leveraging the native Dart Sass compiler binary.
+> [!IMPORTANT]
+> The source code for this library is maintained in the [angular/dev-infra](https://github.com/angular/dev-infra) repository.
+> Please open any issues or pull requests in that repository.
